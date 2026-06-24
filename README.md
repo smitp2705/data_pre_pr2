@@ -226,6 +226,6 @@ The final cleaned dataset:
 
 ##  Author
 
-**Mant Patel**
+**Smit Patel**
 
 Data Cleaning & Preprocessing Project for Healthcare Analytics and Disease Risk Prediction.
